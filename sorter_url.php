@@ -54,7 +54,7 @@ class GoogleUrlApi {
 
 // Create instance with key
 
-
+// Your google apis key 
 $key = "AIzaSyBEpqHFGL3uFYrRgOZJ7tMxcpfDJEuHfds";
 $googer = new GoogleURLAPI($key);
 
